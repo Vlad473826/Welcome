@@ -1,0 +1,6 @@
+
+temp/
+log/*.tmp
+
+^X
+
