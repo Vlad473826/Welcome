@@ -1,6 +1,2 @@
-
 temp/
-log/*.tmp
-
-^X
-
+log/*.tmpS
